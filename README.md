@@ -1,4 +1,4 @@
-# Drupal – Powerful Modular CMS for Web Development
+# Drupal 
 
 Drupal is an advanced content management system (CMS) designed for developers, businesses, and governments. It powers millions of websites worldwide, offering unmatched flexibility, scalability, and security. Whether you're building a blog, online store, or enterprise portal — Drupal has the tools you need.
 
